@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/gof4/gof4.iml" filepath="$PROJECT_DIR$/gof4/gof4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itstack-demo-design-1-02/itstack-demo-design-1-02.iml" filepath="$PROJECT_DIR$/itstack-demo-design-1-02/itstack-demo-design-1-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_demo.iml" filepath="$PROJECT_DIR$/java_demo.iml" />
     </modules>
   </component>
